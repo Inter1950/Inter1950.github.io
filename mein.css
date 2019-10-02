@@ -1,0 +1,11 @@
+
+     
+.sidebar {
+	width: 200px;
+	float: right;
+	background: #b20000;
+	padding: 25px;
+	margin-left: 15px;
+	margin-top: 50px;
+	color: ff555
+}
