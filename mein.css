@@ -1,11 +1,12 @@
 
      
-.sidebar {
-	width: 200px;
-	float: right;
-	background: #b20000;
-	padding: 25px;
-	margin-left: 15px;
-	margin-top: 50px;
-	color: ff555
+h1 {
+	font-family:'Arial Black';
+	color: #1a1a1a;
+	font-size: 4em;
+	background: #F2E6E6;
+	line-height: 150px;
+	margin: 0px 0px 0px 10px;
+	padding-left: 20px;
 }
+  
